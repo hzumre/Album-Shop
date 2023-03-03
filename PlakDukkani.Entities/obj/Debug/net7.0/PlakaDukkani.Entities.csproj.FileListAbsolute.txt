@@ -1,0 +1,15 @@
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\obj\Debug\net7.0\PlakaDukkani.Entities.csproj.AssemblyReference.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\obj\Debug\net7.0\PlakaDukkani.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\obj\Debug\net7.0\PlakaDukkani.Entities.AssemblyInfoInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\obj\Debug\net7.0\PlakaDukkani.Entities.AssemblyInfo.cs
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\obj\Debug\net7.0\PlakaDukkani.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\bin\Debug\net7.0\PlakaDukkani.Entities.deps.json
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\bin\Debug\net7.0\PlakaDukkani.Entities.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\bin\Debug\net7.0\PlakaDukkani.Entities.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\bin\Debug\net7.0\PlakaDukkani.Core.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\bin\Debug\net7.0\PlakaDukkani.Core.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\obj\Debug\net7.0\PlakaDukkani.Entities.csproj.CopyComplete
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\obj\Debug\net7.0\PlakaDukkani.Entities.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\obj\Debug\net7.0\refint\PlakaDukkani.Entities.dll
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\obj\Debug\net7.0\PlakaDukkani.Entities.pdb
+C:\Users\Hatiç\OneDrive\Masaüstü\PlakDukkanı\PlakDukkani.Entities\obj\Debug\net7.0\ref\PlakaDukkani.Entities.dll
