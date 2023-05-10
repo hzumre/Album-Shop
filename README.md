@@ -1,2 +1,2 @@
 # Plak-Dukkani
-Yöneticiler hesap oluşturduktan sonra plak ekleme, güncelleme, silme, satışı bitmiş-satışı devam eden ve indirimdeki albümleri listeleme gibi işlemleri gerçekleştirebilmektedir.
+Masaüstü olarak hazırladığım bir form uygulamasıdır. Entity Framework teknolojisinin Code First yaklaşımı kullanılarak Admin modeli oluşturulmuştur.
