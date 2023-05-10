@@ -1,2 +1,3 @@
-# Plak-Dukkani
-Masaüstü olarak hazırladığım bir form uygulamasıdır. Entity Framework teknolojisinin Code First yaklaşımı kullanılarak Admin modeli oluşturulmuştur.
+# Album-Shop
+
+It is a form application that I prepared as a desktop. Admin model was created by using Code First approach of Entity Framework technology.
