@@ -1,3 +1,2 @@
 # Album-Shop
-
-It is a form application that I prepared as a desktop. Admin model was created by using Code First approach of Entity Framework technology.
+It is a form application that I prepared for desktop. A manager model was created using the Code First approach of Entity Framework technology.
